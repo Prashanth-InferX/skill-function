@@ -207,7 +207,7 @@ Three papers covering the full architecture:
 2. **Right Model for Right Skill** — cost reduction and model routing
 3. **Zero-Authority Reasoning** — security architecture
 
-→ [Read the white paper](#) *(link coming)*
+→ [Read the white paper](#) *(https://inferx.net/skill-function-whitepaper)*
 
 ---
 
@@ -235,7 +235,7 @@ MIT
 
 **prashanth velidandi** — prashanth@inferx.net 
 **Twitter/X** — [@InferXai](https://x.com/InferXai)  
-**Website** — [inferx.net](https://inferx.net)
+**Website** — [inferx.net](https://inferx.net/skill-function)
 
 ---
 
